@@ -4097,3 +4097,4 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 # };
 Изменение 1 в ветке branch 2
 Изменение 2 в ветке branch 2
+Изменение 3 в ветке branch 2
