@@ -4100,3 +4100,4 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 Изменение 3 в ветке branch 1
 Изменение 1 в клоне branch1
 Изменение 2 в клоне branch1
+Изменение 2 в клоне branch1
