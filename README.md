@@ -4098,6 +4098,10 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 Изменение 1 в ветке branch 1
 Изменение 2 в ветке branch 1
 Изменение 3 в ветке branch 1
+HEAD
 Изменение 1 в клоне branch1
 Изменение 2 в клоне branch1
 Изменение 2 в клоне branch1
+
+Дополнительное изменение 1 в ветке branch 1
+1209a6c (branch1: Доп. изменение 1)
